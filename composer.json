@@ -1,0 +1,5 @@
+{
+    "require": {
+        "afragen/language-pack-maker": "dev-master"
+    }
+}

@@ -1,0 +1,1496 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: warshahpress 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/warshahpress\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-11-23T16:07:10+03:00\n"
+"PO-Revision-Date: 2019-11-23 16:23+0300\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#. Theme URI of the theme
+msgid "http://talents.sa/"
+msgstr ""
+
+#. Description of the theme
+msgid "A Multipurpose theme created by NationalTalentS. Theme name will be renamed to TalentSpress"
+msgstr ""
+
+#. Author of the theme
+msgid "NationalTalents"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://github.com/NationalTalents/"
+msgstr ""
+
+#: functions.php:166
+#: functions.DELETE.php:675
+#: build/js/ajax_comment.js:33
+#: src/js/ajax_comment.js:33
+msgid "Hi "
+msgstr "مرحباً "
+
+#: functions.php:167
+#: functions.DELETE.php:676
+msgid "Profile"
+msgstr "الملف الشخصي"
+
+#: functions.php:168
+#: functions.DELETE.php:677
+msgid "Logout"
+msgstr "تسجيل خروج"
+
+#: functions.php:170
+msgid "Register"
+msgstr ""
+
+#: page-add-post.php:86
+#: inc/permalink.php:163
+#: page-edit-profile.php:209
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: page-add-post.php:94
+msgid "Add Media"
+msgstr "اضف وسائط"
+
+#: taxonomy.php:57
+#: archive.php:62
+#: template-parts/page/filterbar.php:45
+msgid "Featured Warshah"
+msgstr "المشاريع المميزة"
+
+#: taxonomy.php:59
+#: archive.php:64
+#: template-parts/page/filterbar.php:46
+msgid "Favorite Warshah"
+msgstr "المشاريع المفضلة"
+
+#: taxonomy.php:61
+#: archive.php:66
+msgid "My Warshah"
+msgstr "مشاريعي"
+
+#: 404.php:43
+msgid "Page not found"
+msgstr "الصفحة غير موجودة"
+
+#: 404.php:54
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: inc/shortcodes.php:65
+#: inc/setup.php:358
+msgid "Read More..."
+msgstr "إقرأ المزيد…"
+
+#: inc/widgets.php:123
+msgid "Sidebar"
+msgstr ""
+
+#: inc/widgets.php:125
+#: inc/widgets.php:137
+#: inc/widgets.php:149
+#: inc/widgets.php:161
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets.php:135
+msgid "Warshat Sidebar"
+msgstr ""
+
+#: inc/widgets.php:147
+msgid "Topic Sidebar"
+msgstr ""
+
+#: inc/widgets.php:159
+msgid "Page Sidebar"
+msgstr ""
+
+#: inc/widgets.php:210
+msgid "Hero Slider"
+msgstr ""
+
+#: inc/widgets.php:212
+msgid "Hero slider area. Place two or more widgets here and they will slide!"
+msgstr ""
+
+#: inc/widgets.php:222
+msgid "Hero Canvas"
+msgstr ""
+
+#: inc/widgets.php:224
+msgid "Full size canvas hero area for Bootstrap and other custom HTML markup"
+msgstr ""
+
+#: inc/widgets.php:234
+msgid "Top Full"
+msgstr ""
+
+#: inc/widgets.php:236
+msgid "Full top widget with dynamic grid"
+msgstr ""
+
+#: inc/widgets.php:246
+msgid "Footer Full"
+msgstr ""
+
+#: inc/widgets.php:248
+msgid "Full sized footer widget with dynamic grid"
+msgstr ""
+
+#: inc/widgets.php:267
+msgid "Footer Widget Column 1"
+msgstr ""
+
+#: inc/widgets.php:269
+#: inc/widgets.php:285
+#: inc/widgets.php:301
+#: inc/widgets.php:317
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: inc/widgets.php:283
+msgid "Footer Widget Column 2"
+msgstr ""
+
+#: inc/widgets.php:299
+msgid "Footer Widget Column 3"
+msgstr ""
+
+#: inc/widgets.php:315
+msgid "Footer Widget Column 4"
+msgstr ""
+
+#: inc/hooks.php:77
+msgid "http://wordpress.org/"
+msgstr ""
+
+#. translators:
+#: inc/hooks.php:80
+msgid "Proudly powered by %s"
+msgstr "مدعوم بفخر بواسطة %s"
+
+#. translators:
+#: inc/hooks.php:85
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/hooks.php:87
+msgid "http://warshahpress.com"
+msgstr ""
+
+#. translators:
+#: inc/hooks.php:91
+msgid "Version: %1$s"
+msgstr "النسخة: %1$s"
+
+#: inc/pagination.php:29
+msgid "&laquo;"
+msgstr ""
+
+#: inc/pagination.php:30
+msgid "&raquo;"
+msgstr ""
+
+#: inc/pagination.php:31
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/pagination.php:82
+msgid "« Prev"
+msgstr "« السابق"
+
+#: inc/pagination.php:83
+msgid "Next »"
+msgstr "التالي »"
+
+#: inc/pagination.php:118
+#: inc/pagination.php:176
+#: single.php:28
+msgid "Previous"
+msgstr "السابق"
+
+#: inc/pagination.php:119
+#: inc/pagination.php:194
+#: single.php:27
+msgid "Next"
+msgstr "التالي"
+
+#: inc/pagination.php:173
+msgid "First"
+msgstr "الأولى"
+
+#: inc/pagination.php:199
+msgid "Last"
+msgstr "الأخيرة"
+
+#: inc/class-warshahpress-vc-taxonomy-term-addon.php:25
+msgid "Taxonomy Term Listing"
+msgstr ""
+
+#: inc/class-warshahpress-vc-taxonomy-term-addon.php:37
+msgid "Select desired taxonomy name"
+msgstr ""
+
+#: inc/class-warshahpress-vc-taxonomy-term-addon.php:80
+msgid "Enter Parent term Id"
+msgstr ""
+
+#: inc/class-warshahpress-vc-taxonomy-term-addon.php:83
+msgid "include any specific subcategory"
+msgstr ""
+
+#: inc/class-warshahpress-vc-taxonomy-term-addon.php:89
+msgid "Extra Class Name"
+msgstr ""
+
+#: inc/class-warshahpress-vc-taxonomy-term-addon.php:92
+msgid "For styling any particular element"
+msgstr ""
+
+#: inc/class-warshahpress-vc-taxonomy-term-addon.php:102
+msgid "Select Taxonomy"
+msgstr ""
+
+#: inc/class-warshahpress-vc-taxonomy-term-addon.php:140
+msgid "include Subcategory"
+msgstr ""
+
+#: inc/class-warshahpress-vc-taxonomy-term-addon.php:154
+msgid "show count"
+msgstr ""
+
+#: inc/class-warshahpress-vc-taxonomy-term-addon.php:168
+msgid "Hide Empty Category"
+msgstr ""
+
+#: inc/class-warshahpress-vc-taxonomy-term-addon.php:183
+msgid "Select Taxonomy first"
+msgstr ""
+
+#: inc/customizer/class-warshahpress-customizer.php:346
+msgid "Above Sidebar (default)"
+msgstr ""
+
+#: inc/customizer/class-warshahpress-customizer.php:347
+#: inc/post-types/helper.php:595
+#: inc/theme-settings.php:98
+msgid "Before Page Title"
+msgstr ""
+
+#: inc/customizer/class-warshahpress-customizer.php:348
+#: inc/post-types/helper.php:596
+#: inc/theme-settings.php:99
+msgid "After Page Title"
+msgstr ""
+
+#: inc/customizer/class-warshahpress-customizer.php:349
+#: inc/post-types/helper.php:597
+#: inc/post-types/helper.php:611
+#: inc/theme-settings.php:100
+#: inc/theme-settings.php:114
+#: inc/theme-settings.php:187
+msgid "None"
+msgstr ""
+
+#: inc/class-warshahpress-walker-nav-menu.php:300
+msgid "Add a menu"
+msgstr "اضف قائمة"
+
+#: inc/functions-profile.php:51
+msgid "You are currently editing the profile edit page. Do not edit the title or slug of this page!"
+msgstr ""
+
+#: inc/extras.php:144
+msgid "Post navigation"
+msgstr ""
+
+#: inc/extras.php:148
+msgctxt "Previous post link"
+msgid "<i class=\"fa fa-angle-left\"></i>&nbsp;%title"
+msgstr ""
+
+#: inc/extras.php:151
+msgctxt "Next post link"
+msgid "%title&nbsp;<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: inc/extras.php:195
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/extras.php:197
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/extras.php:199
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "‫F j، Y"
+
+#: inc/extras.php:202
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/extras.php:204
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/extras.php:206
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/extras.php:208
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/extras.php:210
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/extras.php:212
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/extras.php:214
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/extras.php:216
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/extras.php:218
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: inc/extras.php:242
+msgid "Archives"
+msgstr ""
+
+#: inc/enqueue.php:57
+#: build/js/ajax_comment.js:56
+#: src/js/ajax_comment.js:56
+msgid "Select a discussions type"
+msgstr "يجب إختيار نوع المشاركة"
+
+#: inc/enqueue.php:58
+#: build/js/ajax_comment.js:66
+#: src/js/ajax_comment.js:66
+msgid "Write a comment"
+msgstr "يجب كتابة نص المشاركة"
+
+#: inc/enqueue.php:59
+#: comments.php:74
+#: build/js/ajax_comment.js:185
+#: src/js/ajax_comment.js:185
+msgid "No discussions found!"
+msgstr "لا يوجد مشاركات!"
+
+#: inc/customizer.php:53
+msgid "Warsha Theme Options"
+msgstr ""
+
+#: inc/customizer.php:56
+msgid "Allows you to customize some example settings for WarshahPress."
+msgstr ""
+
+#: inc/customizer.php:104
+msgid "Second Logo"
+msgstr ""
+
+#: inc/customizer.php:120
+#, fuzzy
+msgid "SEO Options"
+msgstr "خصائص الصفحة"
+
+#: inc/customizer.php:123
+msgid "Allows you to customize some SEO options."
+msgstr ""
+
+#: inc/customizer.php:139
+msgid "Default Image"
+msgstr ""
+
+#: inc/permalink.php:64
+#, fuzzy
+msgid "Author base"
+msgstr "الكاتب %s"
+
+#: inc/permalink.php:94
+msgid "Invalid Author Base."
+msgstr ""
+
+#: inc/permalink.php:189
+msgid "Save changes"
+msgstr "حفظ التعديلات"
+
+#: inc/permalink.php:222
+#: inc/template-tags.php:606
+#: template-parts/page/content-author-promo.php:24
+msgid "Author"
+msgstr "الكاتب"
+
+#: inc/permalink.php:222
+#: inc/permalink.php:228
+msgid "Settings"
+msgstr ""
+
+#: inc/permalink.php:243
+#: inc/permalink.php:275
+msgid "These settings change the permalinks used for the"
+msgstr ""
+
+#: inc/permalink.php:243
+#: inc/permalink.php:275
+msgid "."
+msgstr ""
+
+#: inc/permalink.php:261
+#: inc/permalink.php:294
+#: inc/permalink.php:308
+msgid "Base"
+msgstr ""
+
+#: inc/permalink.php:264
+#: inc/permalink.php:297
+#: inc/permalink.php:311
+msgid "Enter a custom base to use. A base must be set or WordPress will use default instead."
+msgstr ""
+
+#: inc/setup.php:77
+msgid "Header Menu"
+msgstr ""
+
+#: inc/setup.php:78
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/setup.php:79
+msgid "Extra Menu"
+msgstr ""
+
+#: inc/post-types/custom-frontpage.php:15
+msgid "Enable support for static frontpage on custom post types."
+msgstr ""
+
+#: inc/post-types/custom-frontpage.php:46
+msgid "Custom frontpage displays"
+msgstr ""
+
+#: inc/post-types/custom-frontpage.php:125
+#: inc/post-types/sticky.php:62
+msgid "Sticky"
+msgstr ""
+
+#: inc/post-types/sticky.php:14
+msgid "Enable support for sticky custom post types."
+msgstr ""
+
+#: inc/post-types/sticky.php:25
+msgid "No public custom post types found."
+msgstr ""
+
+#: inc/post-types/sticky.php:44
+msgid "Sticky Custom Post Types"
+msgstr ""
+
+#: inc/post-types/sticky.php:45
+msgid "Show \"Stick this...\" checkbox on"
+msgstr ""
+
+#: inc/post-types/sticky.php:46
+msgid "Display selected post type(s) on"
+msgstr ""
+
+#: inc/post-types/helper.php:492
+#, fuzzy
+msgid "Archive Page Options"
+msgstr "خصائص الصفحة"
+
+#: inc/post-types/helper.php:588
+#: inc/theme-settings.php:91
+#, fuzzy
+msgid "Feature Image Position"
+msgstr "الصورة البارزة‬"
+
+#: inc/post-types/helper.php:591
+#: inc/post-types/helper.php:608
+#: inc/theme-settings.php:94
+#: inc/theme-settings.php:111
+#: inc/theme-settings.php:184
+msgid "Select specific sidebar position."
+msgstr ""
+
+#: inc/post-types/helper.php:593
+#: inc/post-types/helper.php:610
+#: inc/post-types/helper.php:625
+#: inc/theme-settings.php:96
+#: inc/theme-settings.php:113
+#: inc/theme-settings.php:128
+#: inc/theme-settings.php:186
+msgid "Default"
+msgstr ""
+
+#: inc/post-types/helper.php:594
+#: inc/theme-settings.php:97
+msgid "Above Sidebar"
+msgstr ""
+
+#: inc/post-types/helper.php:605
+#: inc/theme-settings.php:108
+#: inc/theme-settings.php:181
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/post-types/helper.php:612
+#: inc/theme-settings.php:115
+#: inc/theme-settings.php:188
+msgid "Left"
+msgstr ""
+
+#: inc/post-types/helper.php:613
+#: inc/theme-settings.php:116
+#: inc/theme-settings.php:189
+msgid "Right"
+msgstr ""
+
+#: inc/post-types/helper.php:621
+#: inc/theme-settings.php:124
+msgid "Content Area Size"
+msgstr ""
+
+#: inc/post-types/helper.php:636
+#: inc/theme-settings.php:139
+msgid "Hide Page Title"
+msgstr ""
+
+#: inc/post-types/helper.php:639
+#: inc/post-types/helper.php:669
+#: inc/post-types/helper.php:681
+#: inc/theme-settings.php:142
+#: inc/theme-settings.php:200
+#: inc/theme-settings.php:230
+#: inc/theme-settings.php:240
+#: inc/theme-settings.php:252
+#: inc/theme-settings.php:262
+msgid "Yes"
+msgstr ""
+
+#: inc/post-types/custom-fields.php:19
+msgid "Post title"
+msgstr "عنوان المقالة"
+
+#: inc/post-types/custom-fields.php:20
+msgid "Write your post title here"
+msgstr "اكتب عنوان المقالة هنا"
+
+#: inc/post-types/custom-fields.php:24
+msgid "Post content"
+msgstr "محتوى المقالة"
+
+#: inc/post-types/custom-fields.php:36
+msgid "Theme General Settings"
+msgstr ""
+
+#: inc/post-types/custom-fields.php:37
+msgid "Theme Settings"
+msgstr ""
+
+#: inc/post-types/custom-fields.php:59
+msgid "Upload an image of 150x150"
+msgstr "يمكنك رفع صورة بمقاس 150x150"
+
+#: inc/post-types/custom-fields.php:116
+msgid "value is required"
+msgstr ""
+
+#. translators: %s: excluded word.
+#: inc/post-types/custom-fields.php:138
+msgid "Value must not include \"%s\""
+msgstr ""
+
+#: inc/theme-settings.php:87
+msgid "Page Options"
+msgstr "خصائص الصفحة"
+
+#: inc/theme-settings.php:177
+msgid "Post Options"
+msgstr ""
+
+#: inc/theme-settings.php:197
+msgid "Hide Post Title"
+msgstr ""
+
+#: inc/template-tags.php:33
+msgid "Before"
+msgstr "منذ"
+
+#. translators: %s: post author.
+#: inc/template-tags.php:63
+msgctxt "post author"
+msgid "Author %s"
+msgstr "الكاتب %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:81
+#: inc/template-tags.php:89
+msgctxt "list item separator"
+msgid ", "
+msgstr "، "
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:84
+msgid "in %1$s"
+msgstr "في %1$s"
+
+#. translators: 1: Taxonomy Name, 2: Category Name
+#: inc/template-tags.php:104
+msgid "%s: %l."
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:155
+#: inc/template-tags.php:159
+msgid ", "
+msgstr "، "
+
+#: inc/template-tags.php:216
+msgid "in"
+msgstr "في"
+
+#: inc/template-tags.php:419
+msgid "Featured Post"
+msgstr "مقالة مميزة"
+
+#: inc/template-tags.php:496
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:496
+msgid "Edit"
+msgstr "تعديل"
+
+#: inc/template-tags.php:510
+msgid "advised"
+msgstr "ينصح"
+
+#: inc/template-tags.php:514
+#: inc/template-tags.php:522
+msgid "commented"
+msgstr "يعلق"
+
+#: inc/template-tags.php:518
+msgid "asked"
+msgstr "يسأل"
+
+#. translators: 1: comment author name
+#: inc/template-tags.php:557
+msgid "%1$s :"
+msgstr ""
+
+#. translators: 1: comment date, 2: comment time
+#: inc/template-tags.php:566
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. translators: 1: day(s) ago
+#: inc/template-tags.php:572
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr "قبل %s"
+
+#: inc/template-tags.php:600
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:627
+msgid "Replay"
+msgstr "رد"
+
+#: inc/template-tags.php:712
+msgid "Home"
+msgstr "الرئيسية"
+
+#: inc/custom-comments-ajax.php:75
+msgid "Comment Submission Failure"
+msgstr ""
+
+#: inc/widgets/class-warshahpress-topic-categories-widget.php:26
+msgid "A list or dropdown of topic categories."
+msgstr ""
+
+#: inc/widgets/class-warshahpress-topic-categories-widget.php:29
+#: inc/functions-custom-posts.php:242
+#: inc/functions-custom-posts.php:247
+msgid "Topic Categories"
+msgstr ""
+
+#: inc/widgets/class-warshahpress-topic-categories-widget.php:46
+msgid "Topics categories"
+msgstr ""
+
+#: inc/widgets/class-warshahpress-topic-categories-widget.php:78
+#: inc/widgets/class-warshahpress-categories-widget.php:88
+#: inc/widgets/class-warshahpress-recent-posts-widget.php:202
+msgid "Select Category"
+msgstr ""
+
+#: inc/widgets/class-warshahpress-topic-categories-widget.php:190
+#: inc/widgets/class-warshahpress-social-widget.php:165
+#: inc/widgets/class-warshahpress-categories-widget.php:209
+msgid "Widget Title:"
+msgstr ""
+
+#: inc/widgets/class-warshahpress-topic-categories-widget.php:194
+#: inc/widgets/class-warshahpress-categories-widget.php:213
+msgid "Display as dropdown"
+msgstr ""
+
+#: inc/widgets/class-warshahpress-topic-categories-widget.php:197
+#: inc/widgets/class-warshahpress-categories-widget.php:216
+msgid "Show post counts"
+msgstr ""
+
+#: inc/widgets/class-warshahpress-topic-categories-widget.php:200
+#: inc/widgets/class-warshahpress-categories-widget.php:219
+msgid "Show empty categories"
+msgstr ""
+
+#: inc/widgets/class-warshahpress-topic-categories-widget.php:203
+#: inc/widgets/class-warshahpress-categories-widget.php:222
+msgid "Show hierarchy"
+msgstr ""
+
+#: inc/widgets/class-warshahpress-social-widget.php:27
+msgid "A list of warshah social."
+msgstr ""
+
+#: inc/widgets/class-warshahpress-social-widget.php:48
+msgid "Warshah Social"
+msgstr ""
+
+#: inc/widgets/class-warshahpress-social-widget.php:140
+msgid "Contact us"
+msgstr ""
+
+#: inc/widgets/class-warshahpress-social-widget.php:167
+msgid "Colored Icons:"
+msgstr ""
+
+#: inc/widgets/class-warshahpress-categories-widget.php:26
+msgid "A list or dropdown of warshah categories."
+msgstr ""
+
+#: inc/widgets/class-warshahpress-categories-widget.php:29
+#: inc/functions-custom-posts.php:171
+#: search.php:42
+msgid "Warshah Categories"
+msgstr "تصنيفات المشاريع"
+
+#: inc/widgets/class-warshahpress-categories-widget.php:52
+msgid "Warshah categories"
+msgstr "تصنيفات المشاريع"
+
+#: inc/widgets/class-warshahpress-recent-posts-widget.php:26
+msgid "Show warshahs with image."
+msgstr ""
+
+#: inc/widgets/class-warshahpress-recent-posts-widget.php:28
+msgid "Warshahs Recent Posts With Image"
+msgstr ""
+
+#: inc/widgets/class-warshahpress-recent-posts-widget.php:41
+#: inc/widgets/class-warshahpress-recent-posts-widget.php:181
+msgid "Recent Warshat"
+msgstr "آخر المشاريع"
+
+#: inc/widgets/class-warshahpress-recent-posts-widget.php:158
+msgid "No recent warshahs found!"
+msgstr ""
+
+#: inc/widgets/class-warshahpress-recent-posts-widget.php:194
+msgid "Widget Title"
+msgstr ""
+
+#: inc/widgets/class-warshahpress-recent-posts-widget.php:198
+#: inc/functions-custom-posts.php:172
+msgid "Category"
+msgstr "التصنيف"
+
+#: inc/widgets/class-warshahpress-recent-posts-widget.php:212
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/widgets/class-warshahpress-recent-posts-widget.php:216
+msgid "Sort By:"
+msgstr ""
+
+#: inc/widgets/class-warshahpress-recent-posts-widget.php:218
+msgid "Most Recent"
+msgstr ""
+
+#: inc/widgets/class-warshahpress-recent-posts-widget.php:219
+msgid "Random"
+msgstr ""
+
+#: inc/custom-comments.php:77
+msgid "Discusstion type"
+msgstr "نوع المشاركة"
+
+#: inc/custom-comments.php:79
+#: inc/custom-comments.php:164
+msgid "Question"
+msgstr "سؤال"
+
+#: inc/custom-comments.php:80
+#: inc/custom-comments.php:159
+#: inc/custom-comments.php:170
+msgid "Comment"
+msgstr "تعليق"
+
+#: inc/custom-comments.php:81
+#: inc/custom-comments.php:154
+msgid "Tip"
+msgstr "نصيحة"
+
+#: inc/custom-comments.php:104
+msgid "Asks"
+msgstr ""
+
+#: inc/custom-comments.php:105
+msgid "Tips"
+msgstr ""
+
+#: inc/custom-comments.php:106
+msgid "Shares"
+msgstr ""
+
+#: inc/custom-comments.php:133
+msgid "ERROR: Nonce Validation failed!"
+msgstr ""
+
+#: inc/custom-comments.php:136
+msgid "ERROR: Please fill the required fields ( Comment type )!"
+msgstr ""
+
+#: inc/functions-custom-posts.php:18
+msgid "Warshat"
+msgstr "المشاريع"
+
+#: inc/functions-custom-posts.php:19
+msgid "Warshah"
+msgstr "ورشة"
+
+#: inc/functions-custom-posts.php:20
+#: inc/functions-custom-posts.php:21
+msgid "Add New Warshah"
+msgstr "اضف ورشة جديدة"
+
+#: inc/functions-custom-posts.php:22
+msgid "Edit Warshah"
+msgstr "تعديل الورشة"
+
+#: inc/functions-custom-posts.php:24
+msgid "Details of Warshah"
+msgstr "معلومات عن الورشة"
+
+#: inc/functions-custom-posts.php:25
+msgid "New Warshah"
+msgstr ""
+
+#: inc/functions-custom-posts.php:26
+msgid "View Warshah"
+msgstr ""
+
+#: inc/functions-custom-posts.php:27
+msgid "Search Warshat"
+msgstr ""
+
+#: inc/functions-custom-posts.php:28
+msgid "No Warshat found"
+msgstr ""
+
+#: inc/functions-custom-posts.php:29
+msgid "No Warshat found in Trash"
+msgstr ""
+
+#: inc/functions-custom-posts.php:65
+msgid "Topics"
+msgstr "المقالات"
+
+#: inc/functions-custom-posts.php:66
+msgid "Topic"
+msgstr "مقالة"
+
+#: inc/functions-custom-posts.php:67
+#: inc/functions-custom-posts.php:68
+msgid "Add New Topic"
+msgstr "اضف مقالة جديدة"
+
+#: inc/functions-custom-posts.php:69
+msgid "Edit Topic"
+msgstr "تعديل المقالة"
+
+#: inc/functions-custom-posts.php:71
+msgid "Details of Topic"
+msgstr "معلومات عن المقالة"
+
+#: inc/functions-custom-posts.php:72
+msgid "New Topic"
+msgstr ""
+
+#: inc/functions-custom-posts.php:74
+msgid "View Topic"
+msgstr ""
+
+#: inc/functions-custom-posts.php:75
+msgid "Search Topics"
+msgstr ""
+
+#: inc/functions-custom-posts.php:76
+msgid "No Topics found"
+msgstr ""
+
+#: inc/functions-custom-posts.php:77
+msgid "No Topics found in Trash"
+msgstr ""
+
+#: inc/functions-custom-posts.php:129
+#: inc/functions-custom-posts.php:146
+msgid "Contests"
+msgstr ""
+
+#: inc/functions-custom-posts.php:130
+msgid "Contest"
+msgstr ""
+
+#: inc/functions-custom-posts.php:132
+#: inc/functions-custom-posts.php:133
+msgid "Add New Contest"
+msgstr ""
+
+#: inc/functions-custom-posts.php:134
+msgid "Edit Contest"
+msgstr ""
+
+#: inc/functions-custom-posts.php:135
+msgid "New Contest"
+msgstr ""
+
+#: inc/functions-custom-posts.php:137
+msgid "View Contest"
+msgstr ""
+
+#: inc/functions-custom-posts.php:138
+msgid "Search Contests"
+msgstr ""
+
+#: inc/functions-custom-posts.php:139
+msgid "No Contests found"
+msgstr ""
+
+#: inc/functions-custom-posts.php:140
+msgid "No Contests found in Trash"
+msgstr ""
+
+#: inc/functions-custom-posts.php:141
+msgid "Parent Contest"
+msgstr ""
+
+#: inc/functions-custom-posts.php:176
+msgid "Categories"
+msgstr "التصنيفات"
+
+#: inc/functions-custom-posts.php:200
+#: search.php:61
+msgid "Warshah Keywords"
+msgstr ""
+
+#: inc/functions-custom-posts.php:201
+msgid "Keyword"
+msgstr "كلمة دليلية"
+
+#: inc/functions-custom-posts.php:203
+#: inc/functions-custom-posts.php:204
+#: inc/functions-custom-posts.php:275
+#: inc/functions-custom-posts.php:276
+msgid "Add New Keyword"
+msgstr ""
+
+#: inc/functions-custom-posts.php:205
+#: inc/functions-custom-posts.php:277
+msgid "Edit Keyword"
+msgstr ""
+
+#: inc/functions-custom-posts.php:206
+#: inc/functions-custom-posts.php:278
+msgid "New Keyword"
+msgstr ""
+
+#: inc/functions-custom-posts.php:208
+#: inc/functions-custom-posts.php:280
+msgid "View Keyword"
+msgstr ""
+
+#: inc/functions-custom-posts.php:209
+#: inc/functions-custom-posts.php:281
+msgid "Search Keywords"
+msgstr ""
+
+#: inc/functions-custom-posts.php:210
+#: inc/functions-custom-posts.php:282
+msgid "No Keywords found"
+msgstr ""
+
+#: inc/functions-custom-posts.php:211
+#: inc/functions-custom-posts.php:283
+msgid "No Keywords found in Trash"
+msgstr ""
+
+#: inc/functions-custom-posts.php:212
+#: inc/functions-custom-posts.php:284
+msgid "Parent Keyword"
+msgstr ""
+
+#: inc/functions-custom-posts.php:217
+msgid "Keywords"
+msgstr "كلمات دليلية"
+
+#: inc/functions-custom-posts.php:243
+msgid "Topic Category"
+msgstr ""
+
+#: inc/functions-custom-posts.php:272
+#: inc/functions-custom-posts.php:289
+msgid "Topic Keywords"
+msgstr ""
+
+#: inc/functions-custom-posts.php:273
+msgid "Topic Keyword"
+msgstr ""
+
+#. translators: %s: url to remove page.
+#: inc/functions-custom-posts.php:324
+msgid "warshat is archive page. Please <a href=\"%s\">REMOVE</a> this page!"
+msgstr ""
+
+#: functions.DELETE.php:107
+msgid "Primary"
+msgstr ""
+
+#: functions.DELETE.php:108
+msgid "secondary"
+msgstr ""
+
+#: comments.php:32
+#: comments.php:70
+msgid "Discussions"
+msgstr "المشاركات"
+
+#: comments.php:35
+#: comments.php:64
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36
+#: comments.php:65
+msgid "&larr; Older Discussions"
+msgstr "‫‫&rarr; مشاركات أقدم"
+
+#: comments.php:37
+#: comments.php:66
+msgid "Newer Discussions &rarr;"
+msgstr "مشاركات أحدث‫‫ &larr;"
+
+#: comments.php:85
+msgid "Discussions is closed!"
+msgstr "المشاركات مغلقة!"
+
+#: comments.php:90
+msgid "Discusstion body"
+msgstr "نص المشاركة"
+
+#: comments.php:97
+msgid "Add discusstion"
+msgstr "اضف مشاركة"
+
+#: comments.php:99
+msgid "Send discusstion"
+msgstr "ارسل المشاركة"
+
+#: config-visualcomposer/components/shortcodes/mk_warshahstats/vc_map.php:15
+msgid "Post Tags"
+msgstr ""
+
+#: config-visualcomposer/components/shortcodes/mk_warshahstats/vc_map.php:18
+#: config-visualcomposer/components/shortcodes/mk_warshahstats/vc_map.php:111
+#: config-visualcomposer/components/shortcodes/mk_warshahstats/vc_map.php:207
+msgid "Post"
+msgstr ""
+
+#: config-visualcomposer/components/shortcodes/mk_warshahstats/vc_map.php:19
+msgid "Tags of current post."
+msgstr ""
+
+#: config-visualcomposer/components/shortcodes/mk_warshahstats/vc_map.php:24
+#: config-visualcomposer/components/shortcodes/mk_warshahstats/vc_map.php:117
+#: config-visualcomposer/components/shortcodes/mk_warshahstats/vc_map.php:213
+msgid "Post ID"
+msgstr ""
+
+#: config-visualcomposer/components/shortcodes/mk_warshahstats/vc_map.php:26
+#: config-visualcomposer/components/shortcodes/mk_warshahstats/vc_map.php:119
+#: config-visualcomposer/components/shortcodes/mk_warshahstats/vc_map.php:215
+msgid "Leave empty to use current post or post in loop."
+msgstr ""
+
+#: config-visualcomposer/components/shortcodes/mk_warshahstats/vc_map.php:36
+#: config-visualcomposer/components/shortcodes/mk_warshahstats/vc_map.php:129
+#: config-visualcomposer/components/shortcodes/mk_warshahstats/vc_map.php:225
+msgid "CSS"
+msgstr ""
+
+#: config-visualcomposer/components/shortcodes/mk_warshahstats/vc_map.php:108
+msgid "Post Categories"
+msgstr "تصنيفات المقالات"
+
+#: config-visualcomposer/components/shortcodes/mk_warshahstats/vc_map.php:112
+msgid "Categories of current post."
+msgstr ""
+
+#: config-visualcomposer/components/shortcodes/mk_warshahstats/vc_map.php:204
+msgid "Post Video"
+msgstr ""
+
+#: config-visualcomposer/components/shortcodes/mk_warshahstats/vc_map.php:208
+msgid "Featured post video."
+msgstr ""
+
+#: config-visualcomposer/components/shortcodes/vc_gitem_post_author.php:33
+msgctxt "post author"
+msgid "Author"
+msgstr "الكاتب"
+
+#. translators: %s: search query.
+#: search.php:23
+msgid "Search keyword: %s"
+msgstr "بحث عن: %s"
+
+#: page-edit-profile.php:42
+#: author.php:49
+msgid "Edit Profile"
+msgstr "تعديل الملف الشخصي"
+
+#: page-edit-profile.php:63
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#: page-edit-profile.php:68
+msgid "It is not possible to change your username."
+msgstr "لا يمكن تغيير اسم المستخدم."
+
+#: page-edit-profile.php:75
+msgid "Social Login"
+msgstr ""
+
+#: page-edit-profile.php:83
+msgid "Profile successfully updated"
+msgstr "تم تحديث الملف الشخصي بنجاح"
+
+#: page-edit-profile.php:88
+msgid "The given email address is not valid"
+msgstr ""
+
+#: page-edit-profile.php:90
+msgid "The given email address already exists"
+msgstr ""
+
+#: page-edit-profile.php:92
+msgid "The given passwords did not match"
+msgstr ""
+
+#: page-edit-profile.php:94
+msgid "An unknown error accurd, please try again or contant the website administrator"
+msgstr ""
+
+#: page-edit-profile.php:98
+msgid "About Yourself"
+msgstr "نبذة عن نفسك"
+
+#: page-edit-profile.php:99
+msgid "Please note, all information below is also shown on the website."
+msgstr "هذه المعلومات ستظهر في صفحة ملفك الشخصي."
+
+#: page-edit-profile.php:102
+msgid "Nickname"
+msgstr "الاسم المستعار"
+
+#: page-edit-profile.php:112
+msgid "Biographical Info"
+msgstr "السيرة الذاتية"
+
+#: page-edit-profile.php:129
+msgid "Personal info"
+msgstr "المعلومات الشخصية"
+
+#: page-edit-profile.php:132
+msgid "First name"
+msgstr "الاسم الأول"
+
+#: page-edit-profile.php:142
+msgid "Last name"
+msgstr "الاسم الأخير"
+
+#: page-edit-profile.php:154
+msgid "E-mail *"
+msgstr "البريد الإلكتروني *"
+
+#: page-edit-profile.php:164
+msgid "Phone"
+msgstr "الهاتف"
+
+#: page-edit-profile.php:174
+msgid "Specialisation"
+msgstr "التخصص"
+
+#: page-edit-profile.php:184
+msgid "Location"
+msgstr "العنوان"
+
+#: page-edit-profile.php:194
+msgid "Change password"
+msgstr "تغيير كلمة المرور"
+
+#: page-edit-profile.php:196
+msgid "When both password fields are left empty, your password will not change"
+msgstr "إذا لم تدخل كلمة مرور جديدة، لن يتم تغيير كلمة المرور"
+
+#: page-edit-profile.php:199
+msgid "Password *"
+msgstr "كلمة المرور الجديدة*"
+
+#: page-edit-profile.php:203
+msgid "Repeat password *"
+msgstr "تأكيد كلمة المرور الجديدة *"
+
+#: page-edit-profile.php:208
+msgid "Update profile"
+msgstr "تحديث الملف"
+
+#: header.php:40
+msgid "Skip to content"
+msgstr "تخطى إلى المحتوى"
+
+#. translators: 1. date, 2. blog name
+#: template-parts/footer/content-copyright.php:15
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved."
+msgstr "حقوق النشر &copy; %1$s %2$s. كل الحقوق محفوظة."
+
+#. translators: 1. link opening tag, 2. link closing tag
+#: template-parts/footer/content-copyright.php:21
+msgid "Proudly powered by %1$sNational TalentS Co%2$s."
+msgstr "مدعوم بفخر بواسطة %1$sشركة المواهب الوطنية %2$s."
+
+#: template-parts/page/filterbar.php:17
+msgid "View: "
+msgstr "عرض: "
+
+#: template-parts/page/filterbar.php:28
+#: template-parts/page/filterbar.php:48
+msgid "Featured"
+msgstr "المميزة"
+
+#: template-parts/page/filterbar.php:31
+msgid "Favorite"
+msgstr "المفضلة"
+
+#: template-parts/page/filterbar.php:34
+#: template-parts/page/filterbar.php:52
+msgid "Mine"
+msgstr "الخاصة بي"
+
+#: template-parts/page/filterbar.php:37
+#: template-parts/page/filterbar.php:44
+#: template-parts/page/filterbar.php:47
+msgid "All"
+msgstr "الكل"
+
+#: template-parts/page/filterbar.php:49
+msgid "Liked"
+msgstr "المفضلة"
+
+#: template-parts/page/filterbar.php:53
+#: template-parts/topic/content-list.php:104
+msgid "Draft"
+msgstr "مسودة"
+
+#: template-parts/searchform/content-simple.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "بحث عن:"
+
+#: template-parts/searchform/content-simple.php:14
+#: template-parts/searchform/content-advanced.php:21
+#: searchform.php:27
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "بحث &hellip;"
+
+#: template-parts/searchform/content-simple.php:15
+#: template-parts/searchform/content-advanced.php:23
+#: searchform.php:29
+msgctxt "submit button"
+msgid "Search"
+msgstr "بحث"
+
+#: template-parts/searchform/content-advanced.php:22
+#: searchform.php:28
+#, fuzzy
+msgctxt "label"
+msgid "Search"
+msgstr "بحث"
+
+#: template-parts/content-page.php:86
+#: template-parts/topic/content-single.php:72
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content/single.php:95
+#: template-parts/topic/content-single.php:59
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/none/none-mycred.php:19
+#: template-parts/none/none-topic.php:28
+#: template-parts/none/none-warshah.php:19
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "عفواً، لم نجد نتيجة للبحث. حاول بكلمة بحث مختلفة."
+
+#: template-parts/none/none-topic.php:17
+#: template-parts/none/none.php:17
+msgid "Ready to publish your first Post?"
+msgstr "مستعد لنشر المقالة الأولى؟"
+
+#: template-parts/none/none-topic.php:21
+#: template-parts/none/none-topic.php:48
+#: template-parts/none/none-warshah.php:38
+#: template-parts/none/none.php:21
+#: template-parts/none/none.php:51
+msgid "Get started here"
+msgstr "إبدأ هنا"
+
+#: template-parts/none/none-topic.php:44
+#: template-parts/none/none.php:47
+msgid "Ready to publish your first Topic?"
+msgstr "مستعد لنشر المقالة الأولى؟"
+
+#: template-parts/none/none-warshah.php:34
+msgid "Ready to publish your first Warshah?"
+msgstr "مستعد لنشر الورشة الأولى؟"
+
+#: template-parts/none/none.php:29
+msgid "😞  Sorry, but nothing matched your search."
+msgstr "😞 عفواً، لا نتائج تطابق بحثك."
+
+#: template-parts/none/none.php:30
+msgid "Please try again with some different keywords."
+msgstr "يمكنك البحث عن كلمة مختلفة."
+
+#~ msgid "Hi"
+#~ msgstr "مرحباً"
+
+#~ msgid "Published before"
+#~ msgstr "منذ"
+
+#~ msgid "Warshah author"
+#~ msgstr "كاتب الورشة"
+
+#~ msgid "Next Warshah"
+#~ msgstr "الورشة التالية"
+
+#~ msgid "Previous Warshah"
+#~ msgstr "الورشة السابقة"
+
+#~ msgid "😞 Are you sure! No records."
+#~ msgstr "‫‎😞 هل انت متأكد! لاتوجد نتائج."
+
+#, fuzzy
+#~ msgid "Warshat Excerpt"
+#~ msgstr "المشاريع"
+
+#~ msgid "Select"
+#~ msgstr "إختار"
+
+#~ msgid "Warshah name"
+#~ msgstr "اسم الورشة"
+
+#~ msgid "Steps details"
+#~ msgstr "الخطوات المطلوبة"
+
+#~ msgid "Steps"
+#~ msgstr "الخطوات"
+
+#~ msgid "Add new step"
+#~ msgstr "اضف خطوة جديدة"
+
+#~ msgid "My Posts"
+#~ msgstr "مقالاتي"
+
+#~ msgid "My Topics"
+#~ msgstr "مقالاتي"
+
+#~ msgid "Posted in %1$s"
+#~ msgstr "في %1$s"
+
+#~ msgid ""
+"\n"
+"to publish your first Topic? <a href=\"%s\" rel=\"nofollow\">Get \"\n"
+"here</a>.\""
+#~ msgstr ""
+"\n"
+"ستعد لنشر المقالة الأولى؟ <a href=“%s” rel=“nofollow”>اضف مقالة</a>.\""
+
+#~ msgid ""
+"\n"
+"to publish your first Warshah? <a href=\"%s\" rel=\"nofollow\">Get \"\n"
+"here</a>.\""
+#~ msgstr ""
+"\n"
+"ستعد لنشر الورشة الأولى؟ <a href=‘%1$s’ rel=‘nofollow’>اضف ورشة</a>.\""
+
+#, fuzzy
+#~ msgid "Owl Categories Carousel"
+#~ msgstr "التصنيفات"
+
+#~ msgid "Next: %title"
+#~ msgstr "التالي: %title"
+
+#, fuzzy
+#~ msgid "Author:"
+#~ msgstr "الكاتب"
+
+#~ msgid "Archive"
+#~ msgstr "أرشيف"
+
+#~ msgid "Last update before"
+#~ msgstr "آخر تحديث منذ"
